@@ -22,6 +22,9 @@ If you're as excited about WordPress development as I am and want to join me on 
 2. **Contribute**: If you're experienced in WordPress development or any related technologies, feel free to contribute tips, suggestions, or even code!
 3. **Share Your Journey**: Are you on your own WordPress development journey? Share your experiences, challenges, and victories. Let's learn together!
 
+## Navigation
+- [Day 1: Setting Up Development Environment for PHP and WPCLI, Installing WordPress](./learning/day1/README.md)
+
 ## Let's Connect
 
 Want to connect and be part of this journey? You can reach me via:
