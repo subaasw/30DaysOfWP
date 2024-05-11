@@ -26,6 +26,7 @@ If you're as excited about WordPress development as I am and want to join me on 
 - [Day 1: Setting Up Development Environment for PHP and WPCLI, Installing WordPress](./learning/day1/README.md)
 - [Day 2: Vscode, composer and phpcs setup](./learning/day2/README.md)
 - [Day 3: Modern PHP features - 1 ](./learning/day3/README.md)
+- [Day 4: Coding Standards ](./learning/day4/README.md)
 
 ## Let's Connect
 
