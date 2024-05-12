@@ -3,7 +3,7 @@
 ## PSR
 PSR is an acronym for PHP standards recommendation.
 
-The PHP-FIG has published five recommendations as of this book’s publication:
+The PHP-FIG has published five basic recommendations:
 - PSR-1: Basic code style
 - PSR-2: Strict code style
 - PSR-3: Logger interface
