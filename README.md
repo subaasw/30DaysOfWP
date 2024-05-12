@@ -27,6 +27,7 @@ If you're as excited about WordPress development as I am and want to join me on 
 - [Day 2: Vscode, composer and phpcs setup](./learning/day2/README.md)
 - [Day 3: Modern PHP features - 1 ](./learning/day3/README.md)
 - [Day 4: Coding Standards ](./learning/day4/README.md)
+- [Day 4: Coding Standards (code sample) ](./learning/day5/README.md)
 
 ## Let's Connect
 
