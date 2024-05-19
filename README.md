@@ -31,6 +31,7 @@ If you're as excited about WordPress development as I am and want to join me on 
 
 #️⃣ WordPress Projects
 - [Day 6: Plugin Bascis ](./learning/day6/README.md)
+- [Day 7 - 8: Lightweight Custom Table of Contents plugin](./projects/wp-toc-lite/README.md)
 
 ## Let's Connect
 
